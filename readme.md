@@ -15,15 +15,14 @@ Documents sourced from https://staffsquared.com/free-hr-documents/
 
 ## Prerequisites
 
-- Python 3.9 or higher
+- Python 3.10 or higher
 - Poetry for dependency management
 
 ## Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/xxxxx
-   cd rag-pipeline
+   git clone git@github.com:octure-ai/hr_rag_demo.git
    ```
 
 2. Install dependencies using Poetry:
