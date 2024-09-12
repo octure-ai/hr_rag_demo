@@ -22,8 +22,7 @@ Documents sourced from https://staffsquared.com/free-hr-documents/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/xxxxx
-   cd rag-pipeline
+   git clone git@github.com:octure-ai/hr_rag_demo.git
    ```
 
 2. Install dependencies using Poetry:
