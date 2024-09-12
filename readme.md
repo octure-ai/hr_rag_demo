@@ -15,7 +15,7 @@ Documents sourced from https://staffsquared.com/free-hr-documents/
 
 ## Prerequisites
 
-- Python 3.9 or higher
+- Python 3.10 or higher
 - Poetry for dependency management
 
 ## Installation
